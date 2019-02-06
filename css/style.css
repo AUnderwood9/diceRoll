@@ -1,0 +1,15 @@
+#dice-box{
+	margin: 0 auto;
+	border: 2px solid darkgoldenrod;
+	width: 30vw;
+	height: 20vh;
+}
+
+#roll-dice-button{
+	display: block;
+	margin: 5vh auto;
+}
+
+#dice-box span{
+	padding: 30px;
+}
